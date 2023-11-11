@@ -1,0 +1,1 @@
+print("winter" * 3)
